@@ -2,10 +2,13 @@
 
 Software Engineering I & [Alzheimer Gesellschaft München](https://www.agm-online.de/agm-home.html)
 
- **Team Di-1**
-<object data="https://./swe-Di-01/Documents_Storyboard.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://./swe-Di-01/Documents_Storyboard.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://./swe-Di-01/Documents_Storyboard.pdf">Download PDF</a>.</p>
+ **Team Di-1 - Der Motivator**
+
+  *gehe aktiv und ohne Langeweile durch den Tag*
+
+<object data="swe-Di-01/Documents_Storyboard.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="swe-Di-01/Documents_Storyboard.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="swe-Di-01/Documents_Storyboard.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
@@ -15,9 +18,12 @@ Software Engineering I & [Alzheimer Gesellschaft München](https://www.agm-onlin
 
 
  
- **Team Do-23**
+ **Team Do-23 - Shared Activity Memory**
+
+ *lass Dir erzählen was Familienmitglieder und Freunde gerade machen*
+
  ![Storyboard Team Do-23](swe-Do-23/Documents_Storyboard_AlexaSkill.png)
 
- [Press Release](https://./swe-Di-23/Documents_Introducing_Shared_Activty_Memory.pdf)
+ [Press Release](swe-Di-23/Documents_Introducing_Shared_Activty_Memory.pdf)
 
-[FAQs](https://./swe-Di-23/Documents_FAQ.pdf)
+[FAQs](swe-Di-23/Documents_FAQ.pdf)

@@ -56,7 +56,7 @@
 
 [Press Release](swe-Do-13/PR.pdf)
 
-[FAQ](swe-Do-13/Documents_FAQ.pdf)
+[FAQ](swe-Do-13/FAQ.pdf)
 
 **Team Do-14 - Tages-Checkliste für die Pflege**
 
@@ -66,7 +66,7 @@
 
 [Press Release](swe-Do-14/PR.pdf)
 
-[FAQ](swe-Do-14/Documents_FAQ.pdf)
+[FAQ](swe-Do-14/FAQ.pdf)
 
 **Team Do-15 - Der sprechende Terminkalender**
 
@@ -76,7 +76,7 @@
 
 [Press Release](swe-Do-15/PR.pdf)
 
-[FAQ](swe-Do-15/Documents_FAQ.pdf)
+[FAQ](swe-Do-15/FAQ.pdf)
 
 **Team Do-16 - Decked-Out**
 
@@ -137,4 +137,4 @@ tage von Verwandten und Freunden abgefragt werden.*
 
 [Press Release](swe-Do-25/PR.pdf)
 
-[FAQ](swe-Do-25/Documents_FAQ.pdf)
+[FAQ](swe-Do-25/FAQ.pdf)

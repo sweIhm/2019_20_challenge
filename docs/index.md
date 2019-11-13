@@ -100,8 +100,7 @@
 
 **Team Do-22 - Wie heißt der Dings?**
 
-*Interaktiv können gespeicherte Daten wie Namen und Geburts-
-tage von Verwandten und Freunden abgefragt werden.*
+*Interaktiv können gespeicherte Daten wie Namen und Geburtstage von Verwandten und Freunden abgefragt werden.*
 
 ![Storyboard Team Do-22](swe-Do-22/Storyboard.png)
 
